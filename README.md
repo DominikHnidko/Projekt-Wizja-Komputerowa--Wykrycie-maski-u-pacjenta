@@ -18,7 +18,5 @@ The model classifies images into three categories:
 
 ![Example result](wspolne.png)
 
-![Example result](Zrzut ekranu 2026-01-19 230434.png)
 
-![Example result](Zrzut ekranu 2026-01-19 173441.png)
-
+![Example result](przykladowy_obraz.png)
