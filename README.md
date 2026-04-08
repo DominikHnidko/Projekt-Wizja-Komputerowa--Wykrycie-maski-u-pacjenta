@@ -16,7 +16,8 @@ The model classifies images into three categories:
 3. A selected frame is processed using YOLOv4.  
 4. The system performs detection and classification of mask usage.  
 
-![Example result](wspolne.png)
-
 
 ![Example result](przykladowy_obraz.png)
+
+
+![Example result](wspolne.png)
