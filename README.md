@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project detects whether a face mask is worn correctly using a YOLOv4 deep learning model implemented in MATLAB.  
-The input image is captured in real time from an ESP32-CAM via an RTSP stream.
+The input image is captured in #real #time from an ESP32-CAM via an RTSP stream.
 
 ##  Classes
 The model classifies images into three categories:
